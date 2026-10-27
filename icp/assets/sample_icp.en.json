@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "lang": "en",
+  "generated_at": "2026-10-27",
+  "path": "B",
+  "business": {
+    "name": "Ledger Dental",
+    "offer": "Monthly bookkeeping with cash-flow reports for independent dental clinics",
+    "owner": "Marcus",
+    "geography": "Texas, United States",
+    "customers_count": 0
+  },
+  "north_star": "I sell monthly bookkeeping with cash-flow reports to independent dental clinics in Texas with 2 to 5 dentists that just lost or outgrew their bookkeeper.",
+  "profile": {
+    "label": "The independent dental clinic that just outgrew its bookkeeper",
+    "requirements": [
+      {"name": "2 to 5 dentists under one owner", "why": "Enough revenue to pay for a specialist, small enough that the owner still signs the checks."},
+      {"name": "Independent, not part of a DSO", "why": "Dental service organizations have in-house finance teams; the owner-operator does not."},
+      {"name": "A trigger in the last 90 days", "why": "A bookkeeper left, a second location opened, or the CPA flagged messy books."}
+    ],
+    "demographics": {
+      "industry": "Dental clinics",
+      "size": "2 to 5 dentists, 8 to 30 staff",
+      "role": "The owner dentist or the office manager",
+      "location": "Texas, starting with Austin and San Antonio",
+      "stage": "Established, 3 or more years in business",
+      "ticket": "US$ 900 to US$ 2,500 per month"
+    },
+    "situation_before": "Books closed 6 weeks late, no idea which location makes money, tax surprises in April.",
+    "situation_after": "Books closed by the 10th, a one-page cash-flow report per location, no April surprises.",
+    "aspirations": ["Open a second location without losing control of cash", "Stop doing the books on Sundays"],
+    "pain_language": ["I only find out we lost money when my CPA calls me in March."]
+  },
+  "evidence": {
+    "basis": "Hypothesis: no customers yet. Chosen from four candidate segments scored on pain, purchasing power, reachability and growth, plus beachhead criteria.",
+    "market_scores": {"pain": 8, "purchasing_power": 8, "easy_to_target": 7, "growing": 6},
+    "rwa": {"ready": true, "willing": true, "able": true},
+    "talk_to_each_other": true,
+    "list_100_in_a_week": true,
+    "niche_ladder": [
+      {"level": "Small businesses that need bookkeeping", "note": "Commodity. Competes with every franchise and app on price."},
+      {"level": "Healthcare practices", "note": "Better: insurance billing makes the books complex and the pain real."},
+      {"level": "Independent dental clinics with 2 to 5 dentists in Texas", "note": "Reachable through the state dental association and two conferences a year."}
+    ],
+    "segments_considered": [
+      {"name": "Independent dental clinics, 2 to 5 dentists", "scores": {"pain": 8, "purchasing_power": 8, "easy_to_target": 7, "growing": 6}, "total": 29, "picked": true, "note": "Highest purchasing power and the clearest trigger events."},
+      {"name": "Physiotherapy practices", "scores": {"pain": 7, "purchasing_power": 5, "easy_to_target": 6, "growing": 7}, "total": 25, "picked": false, "note": "Real pain, thinner margins."},
+      {"name": "Veterinary clinics", "scores": {"pain": 6, "purchasing_power": 7, "easy_to_target": 6, "growing": 7}, "total": 26, "picked": false, "note": "Attractive second segment once the first ten customers are in."},
+      {"name": "Med spas", "scores": {"pain": 5, "purchasing_power": 8, "easy_to_target": 4, "growing": 8}, "total": 25, "picked": false, "note": "Growing fast but hard to list and highly seasonal."}
+    ]
+  },
+  "anti_icp": [
+    {"who": "Clinics owned by a DSO or private equity group", "why": "They already have a finance team and a procurement process."},
+    {"who": "Solo dentists in their first year", "why": "Not enough transactions to justify the fee; a template serves them better."},
+    {"who": "Anyone who wants tax filing only", "why": "That is a CPA engagement, not monthly bookkeeping."}
+  ],
+  "where": {
+    "watering_holes": [
+      {"place": "Texas Dental Association meetings and the Texas Meeting in May", "type": "Events"},
+      {"place": "Dental practice brokers and lenders who see every transition", "type": "Allies"},
+      {"place": "Facebook groups for dental office managers", "type": "Communities"},
+      {"place": "Dental supply reps who visit 40 clinics a month", "type": "Allies"}
+    ],
+    "buying_path": [
+      {"step": "A referral from a broker, lender or supply rep", "note": "The trigger event usually surfaces here first."},
+      {"step": "A 15-minute books check on last quarter", "note": "The lead magnet that reveals the problem."},
+      {"step": "A proposal with the first month free if the books are closed by the 10th", "note": "Risk reversal tied to the dream outcome."}
+    ],
+    "dream_100_seed": []
+  },
+  "plan_30_days": [
+    {"week": 1, "actions": ["Write the one-page offer with the three requirements stated up front.", "List 100 clinics in Austin and San Antonio that match the profile."]},
+    {"week": 2, "actions": ["Interview 10 office managers in inquiry mode: do not sell, listen for the trigger and the words they use.", "Meet three practice brokers and two supply reps."]},
+    {"week": 3, "actions": ["Offer the 15-minute books check to 30 clinics by email and phone.", "Run 5 checks and record which trigger each one had."]},
+    {"week": 4, "actions": ["Close the first 3 clients on the first-month-free offer.", "Re-score the segment with real data and adjust one qualifier if needed."]}
+  ],
+  "metrics": [],
+  "next_10_customers": ["A 3-dentist clinic in Austin whose bookkeeper retired", "A 2-location practice in San Antonio opened in 2025", "A 4-dentist clinic flagged by its CPA for late books", "A clinic buying a second practice through a broker", "A 2-dentist clinic whose office manager does the books on weekends", "A clinic switching practice management software"],
+  "open_questions": ["Confirm the fee band with the first three proposals", "Confirm whether office managers or owners answer the books check"],
+  "cta": {"override": null}
+}

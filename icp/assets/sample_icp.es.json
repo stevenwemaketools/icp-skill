@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0",
+  "lang": "es",
+  "generated_at": "2026-10-27",
+  "path": "A",
+  "business": {
+    "name": "Ruta Clara Logística",
+    "offer": "Entregas de última milla con rastreo en vivo para marcas de e-commerce",
+    "owner": "Carolina",
+    "geography": "Santo Domingo, República Dominicana",
+    "customers_count": 40
+  },
+  "north_star": "Vendo entregas de última milla con rastreo en vivo a marcas de e-commerce en Santo Domingo que despachan más de 300 pedidos al mes y pierden clientes por entregas fallidas, justo cuando cambian de courier.",
+  "profile": {
+    "label": "La marca de e-commerce que ya vende y pierde dinero en la entrega",
+    "requirements": [
+      {
+        "name": "Más de 300 pedidos al mes",
+        "why": "Por debajo de ese volumen la ruta no se llena y el margen no cubre el rastreo en vivo."
+      },
+      {
+        "name": "Vende directo al consumidor en Santo Domingo",
+        "why": "Las entregas fallidas le cuestan clientes, no solo pedidos. Siente el dolor cada semana."
+      },
+      {
+        "name": "Tiene una persona responsable de operaciones",
+        "why": "Alguien que abre el panel de rastreo y toma decisiones. Sin ese rol, el servicio no se usa."
+      },
+      {
+        "name": "Ya pagó a otro courier y quedó inconforme",
+        "why": "Sabe lo que cuesta una mala entrega y compara con experiencia, no con precio."
+      }
+    ],
+    "demographics": {
+      "industry": "E-commerce: moda, cosmética y suplementos",
+      "size": "4 a 15 empleados, 300 a 1,500 pedidos al mes",
+      "role": "La dueña o el gerente de operaciones",
+      "location": "Gran Santo Domingo",
+      "stage": "Creciendo, con pauta activa en Instagram",
+      "ticket": "US$ 1,200 a US$ 4,000 al mes"
+    },
+    "situation_before": "Entre 8% y 12% de entregas fallidas, quejas en Instagram, reembolsos manuales y un courier que no responde el WhatsApp.",
+    "situation_after": "Menos de 3% de entregas fallidas, rastreo en vivo para el cliente final y un reporte semanal que la dueña revisa en 5 minutos.",
+    "aspirations": [
+      "Abrir ventas en Santiago sin montar su propia flota",
+      "Que la entrega sea parte de la marca, no un problema",
+      "Dejar de responder quejas de entrega en los DMs"
+    ],
+    "pain_language": [
+      "Me llegan más quejas por la entrega que por el producto.",
+      "El courier me responde el lunes lo que pasó el viernes."
+    ]
+  },
+  "evidence": {
+    "basis": "Top 20% de 40 clientes activos: los 8 que pagan más, llevan más de 12 meses y refieren a otras marcas.",
+    "top_customers": [
+      {
+        "alias": "Marca de moda A",
+        "why": "Paga el plan más alto, 14 meses, trajo dos referidos."
+      },
+      {
+        "alias": "Cosmética B",
+        "why": "Creció de 300 a 900 pedidos al mes con nosotros."
+      },
+      {
+        "alias": "Suplementos C",
+        "why": "Nunca ha reclamado una factura; usa el panel a diario."
+      }
+    ],
+    "separation_test": {
+      "passed": true,
+      "note": "Los 8 peores clientes despachan menos de 120 pedidos al mes y ninguno tiene responsable de operaciones. No cumplen ninguno de los cuatro requisitos."
+    },
+    "market_scores": {
+      "pain": 9,
+      "purchasing_power": 7,
+      "easy_to_target": 8,
+      "growing": 8
+    },
+    "rwa": {
+      "ready": true,
+      "willing": true,
+      "able": true
+    },
+    "talk_to_each_other": true,
+    "list_100_in_a_week": true,
+    "niche_ladder": [
+      {
+        "level": "Empresas que envían paquetes",
+        "note": "Demasiado amplio, compite con todo courier por precio."
+      },
+      {
+        "level": "Marcas de e-commerce en Santo Domingo",
+        "note": "Mejor: el dolor es la entrega fallida, no el precio."
+      },
+      {
+        "level": "Marcas DTC con más de 300 pedidos al mes y pauta activa",
+        "note": "Aquí el rastreo en vivo vale el ticket: alcanzable: unas 400 marcas en la ciudad."
+      }
+    ]
+  },
+  "anti_icp": [
+    {
+      "who": "Tiendas con menos de 100 pedidos al mes",
+      "why": "No llenan una ruta y comparan solo por precio."
+    },
+    {
+      "who": "Mayoristas y distribuidores B2B",
+      "why": "Necesitan carga, no última milla con rastreo."
+    },
+    {
+      "who": "Marcas sin nadie en operaciones",
+      "why": "Nadie usa el panel y el servicio parece caro."
+    },
+    {
+      "who": "Quien exige entrega el mismo día en toda la isla",
+      "why": "No es nuestro modelo; prometerlo destruye la reputación."
+    }
+  ],
+  "where": {
+    "watering_holes": [
+      {
+        "place": "Grupos de WhatsApp de dueñas de tiendas de moda",
+        "type": "Comunidades"
+      },
+      {
+        "place": "Feria Expo Emprende y los pop-ups de Blue Mall",
+        "type": "Eventos"
+      },
+      {
+        "place": "Agencias de pauta que manejan marcas DTC",
+        "type": "Aliados"
+      },
+      {
+        "place": "Cuentas de Instagram con más de 20k seguidores y tienda activa",
+        "type": "Canales"
+      }
+    ],
+    "buying_path": [
+      {
+        "step": "Ven un reel nuestro sobre entregas fallidas",
+        "note": "El 70% de los mejores clientes vio al menos dos reels antes de escribir."
+      },
+      {
+        "step": "Preguntan por DM y reciben la calculadora de costo por entrega fallida",
+        "note": "El lead magnet que revela el problema."
+      },
+      {
+        "step": "Llamada de 20 minutos con el gerente de operaciones",
+        "note": "Mostramos el panel con sus propios pedidos."
+      },
+      {
+        "step": "Prueba de 2 semanas con 50 pedidos",
+        "note": "Cierran cuando ven la primera semana de rastreo."
+      }
+    ],
+    "dream_100_seed": [
+      "Marca de moda D",
+      "Cosmética E",
+      "Suplementos F",
+      "Joyería G",
+      "Calzado H",
+      "Mascotas I",
+      "Bebé J",
+      "Deporte K"
+    ]
+  },
+  "plan_30_days": [
+    {
+      "week": 1,
+      "actions": [
+        "Reescribir la bio, la landing y los DMs con los cuatro requisitos a la vista.",
+        "Publicar tres reels sobre entregas fallidas con llamado a las marcas DTC."
+      ]
+    },
+    {
+      "week": 2,
+      "actions": [
+        "Listar 100 marcas que cumplen los requisitos y contactar 20 por DM con la calculadora.",
+        "Pedir dos referidos a cada uno de los 8 mejores clientes: quién, no si."
+      ]
+    },
+    {
+      "week": 3,
+      "actions": [
+        "Añadir la prueba de 2 semanas como paso fijo del proceso de venta.",
+        "Dejar de cotizar a tiendas con menos de 100 pedidos: enviarlas a un courier aliado."
+      ]
+    },
+    {
+      "week": 4,
+      "actions": [
+        "Medir tasa de cierre, costo de adquisición y entregas fallidas por cliente nuevo.",
+        "Revisar el perfil con los datos del mes y ajustar un calificador si hace falta."
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "name": "LTGP : CAC",
+      "target": "3 a 1 o mejor"
+    },
+    {
+      "name": "Tasa de cierre en la llamada",
+      "target": "30% o mejor"
+    },
+    {
+      "name": "Entregas fallidas por cliente nuevo",
+      "target": "Menos de 3% en el primer mes"
+    },
+    {
+      "name": "Retención a 90 días",
+      "target": "Igual o mejor que los 8 mejores clientes"
+    }
+  ],
+  "open_questions": [],
+  "cta": {
+    "override": null
+  }
+}

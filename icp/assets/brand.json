@@ -1,0 +1,68 @@
+{
+  "generated_from": "brand/tokens/brand_tokens.json v1.0 (2026-05-29) and the booking link in the company integrations config",
+  "generated_at": "2026-10-27",
+  "company": {
+    "name": "We Make Tools",
+    "site_url": "https://wemake.tools"
+  },
+  "wordmark": {
+    "text": "WeMake.Tools",
+    "tagline": "SOFTWARE TOOLS, BUILT TO SHIP. HECHO A LA MEDIDA."
+  },
+  "colors": {
+    "lime": "#C8F808",
+    "lime_deep": "#9BC706",
+    "lime_soft": "#E8FB8C",
+    "black": "#000000",
+    "off_black": "#0A0A0A",
+    "white": "#FFFFFF",
+    "gray_400": "#A1A1AA",
+    "gray_600": "#52525B",
+    "gray_800": "#27272A",
+    "charcoal": "#1A1A1A"
+  },
+  "fonts": {
+    "headline": "Inter",
+    "body": "Inter",
+    "mono": "JetBrains Mono",
+    "google_fonts_css": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap",
+    "pdf": {
+      "headline": "Helvetica-Bold",
+      "body": "Helvetica",
+      "mono": "Courier",
+      "mono_bold": "Courier-Bold"
+    }
+  },
+  "cta": {
+    "audit": {
+      "label": {
+        "es": "AI Opportunity Audit",
+        "en": "AI Opportunity Audit"
+      },
+      "line": {
+        "es": "Descubre qué procesos de tu negocio ya pueden operar con agentes.",
+        "en": "Find out which of your processes can already run on agents."
+      },
+      "url": "https://wemake.tools"
+    },
+    "build": {
+      "label": {
+        "es": "Una conversación de build",
+        "en": "A build conversation"
+      },
+      "line": {
+        "es": "30 minutos para mapear el motor que encuentra a este cliente por ti.",
+        "en": "30 minutes to map the engine that finds this customer for you."
+      },
+      "url": "https://api.leadconnectorhq.com/widget/booking/7imvEOkx8vkO0SgUNdaB"
+    },
+    "headline": {
+      "es": "¿Construimos el motor que encuentra a este cliente por ti?",
+      "en": "Want the engine that finds this customer for you?"
+    }
+  },
+  "privacy": {
+    "es": "Tus respuestas no salen de tu computadora ni de tu sesión. Este documento se generó localmente.",
+    "en": "Your answers never leave your computer or your session. This document was generated locally."
+  }
+}
